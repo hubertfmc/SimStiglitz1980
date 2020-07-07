@@ -3,7 +3,7 @@ Overview
 Following the economic intuition developed in Stiglitz (1980), this projects explores how imperfect information can distort the path to general equilibrium.
 Throughout the simulation, players aim at optimizing their pricing and production decision by making inferences according to their expectation of future interest rate and general price level.
 
-Description of each function
+Function description
 ----------------------------
 1. Initiation.m : This is the main function of the simulation program.
 2. Simulation.m : This intiates the simulation according to the specified parameters
